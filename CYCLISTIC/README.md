@@ -1,4 +1,4 @@
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 # Cyclistic Case Study
 
 ## About the company
@@ -17,3 +17,9 @@ who purchase annual memberships are Cyclistic members.
 ### The business task
 
 Converting more casual riders to annual members by indentify how the two types of riders use Cyclistic bike differently by analysing the data from the previous year (2021).
+
+## Tehnical Stuff
+This project is second one of two capstone projects from Google Data Analytics Professional Certificate. For this capstone I choose to do my analysis in Jupyter Notebook, because I wanted to have all the steps from raw data to insights and visualisations in one place.
+
+## Important
+You can see the capstone on Kaggle too: https://www.kaggle.com/code/bucuremil/cyclistic-analysis-with-python
