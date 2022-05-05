@@ -9,7 +9,8 @@ Pre-analysis questions
 - What are some trends in smart device usage?
 - How could these trends apply to Bellabeat customers?
 - How could these trends help influence Bellabeat marketing strategy?
-Business Task
+- 
+## Business Task
 
 Making recomandations based on the insights in the data, for developing marketing strategy in order to gain more clients.
 ## Tehnical Stuff
