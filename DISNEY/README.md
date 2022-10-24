@@ -24,6 +24,7 @@ The dataset is from Kagel: https://www.kaggle.com/datasets/thedevastator/disney-
 
 ## Table of contents
 disney_sql_code: This is the .sql file where I walk you to the hole proccess of my analysis
+
 visuals.pbix: The Visuals made in Power BI for this analysis
 
 
